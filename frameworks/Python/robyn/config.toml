@@ -3,6 +3,18 @@ name = "Robyn"
 
 [main]
 urls.plaintext = "/plaintext"
+urls.json = "/json"
+approach = "Realistic"
+classification = "Micro"
+os = "Linux"
+orm = "Raw"
+platform = "None"
+webserver = "None"
+versus = "None"
+
+[const]
+urls.plaintext = "/plaintext"
+urls.json = "/json"
 approach = "Realistic"
 classification = "Micro"
 os = "Linux"

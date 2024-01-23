@@ -3,6 +3,7 @@
   "tests": [
     {
       "default": {
+        "json_url": "/json",
         "plaintext_url": "/plaintext",
         "port": 8080,
         "approach": "Realistic",
@@ -15,6 +16,23 @@
         "webserver": "None",
         "os": "Linux",
         "display_name": "Robyn",
+        "notes": "",
+        "versus": "None"
+      },
+      "const": {
+        "json_url": "/json",
+        "plaintext_url": "/plaintext",
+        "port": 8080,
+        "approach": "Realistic",
+        "classification": "Micro",
+        "framework": "Robyn",
+        "language": "Python",
+        "flavor": "None",
+        "orm": "Raw",
+        "platform": "None",
+        "webserver": "None",
+        "os": "Linux",
+        "display_name": "Robyn [const]",
         "notes": "",
         "versus": "None"
       }
